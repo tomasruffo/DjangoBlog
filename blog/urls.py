@@ -20,5 +20,3 @@ urlpatterns = [
 
 ]
 
-
-# <app>/<model>_<viewtype>.html

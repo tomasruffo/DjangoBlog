@@ -8,6 +8,7 @@
 				<legend class="border-bottom mb-4">Blog post</legend>
 				{{ form|crispy }}
 			</fieldset>
+			<img class="rounded-circle account-img" src="{{ user.profile.image.url }}">
 			<div class="form-group ">
 				<button class="btn btn-outline-primary" type="submit">Crear</button>
 
