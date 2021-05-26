@@ -1,3 +1,3 @@
 # DjangoBlog
 
-A simple Django blog developed with the goal of learning about the framework.
+Blog programmed with django to learn about the framework
